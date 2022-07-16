@@ -15,6 +15,6 @@ the Z-index is what determines that it's all the way in the front */
 
 /* Made your gallery images smaller for ease of testing */
 .gallery-image {
-    height: 600px;
+    height: 500px;
     width: auto;
 }
