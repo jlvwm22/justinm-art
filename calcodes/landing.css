@@ -9,8 +9,8 @@ the Z-index is what determines that it's all the way in the front */
     top: 0; 
     left: 0; 
     background-color: rgba(0,0,0,0.8); 
-    z-index: 1000000;
-    padding: 256px;
+    z-index: 100000000;
+    padding: 458px;
 }
 
 /* Made your gallery images smaller for ease of testing */
