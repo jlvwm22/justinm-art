@@ -1796,7 +1796,7 @@ input, select, textarea {
 			font-size: 0.7em;
 			font-weight: 600;
 			letter-spacing: 0.25em;
-			margin-bottom: 0;
+			margin-bottom: -40em;
 			text-transform: uppercase;
 		}
 
@@ -2792,7 +2792,7 @@ input, select, textarea {
 				display: block;
 				height: 100%;
 				left: 0;
-				opacity: 0.85;
+				opacity: 0.25;
 				position: absolute;
 				width: 100%;
 				z-index: 2;
